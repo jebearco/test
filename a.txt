@@ -1,2 +1,2 @@
 that's the begin of a new file
-testing new line
+testing new lines
