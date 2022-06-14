@@ -1,8 +1,7 @@
 that's the begin of a new fie
-testing new lines-
+testing new lines-plusj
 last lines
 begin of
-
 testing new lines-
 one more line at the end :)
 and one even more
@@ -10,3 +9,6 @@ ein zwei drei
 
 that's the begin of a new fie
 asdf
+testing onw more line
+sting new lines-
+one more line at the end :)
